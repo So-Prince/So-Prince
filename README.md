@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Prince+O.+%7C+Software+Engineer;HealthTech+%7C+EdTech+%7C+AI+Systems;Tech+Educator+%7C+Community+Builder;Building+Systems+That+Scale;@so-prince" />
 </p>
 
-# 👋 Hi, I'm Prince O. (@so-prince)
+# 👋 Hi, I'm Prince O. (@So-prince)
 
-🚀 **Software Developer | Tech Educator | Clinical Physiologist | Community Builder**  
+🚀 **Software Developer | Tech Educator | Clinical Physiologist | Community Builder | Data Analyst**  
 🌍 Nigeria  
 💡 Building scalable systems at the intersection of **HealthTech, EdTech, AI, and Community Development**
 
@@ -27,7 +27,9 @@ My work spans hospitals, classrooms, communities, and codebases — driven by **
 - Go (Golang)  
 - Python  
 - JavaScript  
-
+- MySQL
+- Excel
+  
 ### Tools & Systems
 - Git & GitHub  
 - Linux (Ubuntu)  
@@ -38,7 +40,8 @@ My work spans hospitals, classrooms, communities, and codebases — driven by **
 ### Domains
 - HealthTech  
 - EdTech  
-- AI Systems  
+- AI Systems
+- Data Analytics  
 - Backend Engineering  
 - Community Technology  
 - Automation Systems  
